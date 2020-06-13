@@ -8,7 +8,7 @@ b. File for 2x1 multiplexer => mux.vhd <br>
 c. File for D Flip-Flop => dff.vhd <br>
 d. File for the delay lines => delay_line.vhd <br>
 e. File for the parameters => parameters.vhd <br>
-<br> <br> <br>
+<br> <br>
 <h4> 2. Original file, under APUF -> project -> vivado -> arbiter_puf_vhdl </h4>
 
 
