@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jun 13 14:24:28 2020
+# Process ID: 28382
+# Current directory: /home/sebanti/Tiya/APUF/project/vivado/arbiter_puf_vhdl/arbiter_puf_vhdl.runs/synth_1
+# Command line: vivado -log arbiter_puf.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source arbiter_puf.tcl
+# Log file: /home/sebanti/Tiya/APUF/project/vivado/arbiter_puf_vhdl/arbiter_puf_vhdl.runs/synth_1/arbiter_puf.vds
+# Journal file: /home/sebanti/Tiya/APUF/project/vivado/arbiter_puf_vhdl/arbiter_puf_vhdl.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source arbiter_puf.tcl -notrace
